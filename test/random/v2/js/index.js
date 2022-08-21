@@ -242,7 +242,7 @@ new Vue({
     },
     // 跳转 v1
     touchV1Page () {
-      window.location.href = 'https://iceyear.ml/test/random/index.html'
+      window.location.href = 'https://iceyear.ml/test/random/v1/index.html'
     },
     // 跳转Ice Year实验室
     touchIYLabPage () {
